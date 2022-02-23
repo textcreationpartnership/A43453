@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The importance of religion to young persons represented in a sermon preached at the funeral of Sir Thomas Vinor, Baronet, in St. Hellens Church, London, May the 3d, 1683 / by Hen. Hesketh ...</title>
+            <author>Hesketh, Henry, 1637?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43453</idno>
+            <idno type="STC">Wing H1612</idno>
+            <idno type="STC">ESTC R12084</idno>
+            <idno type="EEBO-CITATION">13016550</idno>
+            <idno type="OCLC">ocm 13016550</idno>
+            <idno type="VID">96546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The importance of religion to young persons represented in a sermon preached at the funeral of Sir Thomas Vinor, Baronet, in St. Hellens Church, London, May the 3d, 1683 / by Hen. Hesketh ...</title>
+                  <author>Hesketh, Henry, 1637?-1710.</author>
+               </titleStmt>
+               <extent>[4], 30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills, Jun. for Henry Bonwicke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vinor, Thomas, --  Sir, d. 1683.</term>
+               <term>Bible. --  O.T. --  Ecclesiastes XI, 10 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Youth --  Religious life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96546:1" rendition="simple:additions"/>
+            <p>THE IMPORTANCE OF RELIGION TO <hi>Young Perſons</hi> Repreſented in a SERMON Preached at the Funeral of Sir <hi>Thomas Vinor</hi> Baronet, in St. <hi>Hellens</hi> Church, <hi>London.</hi>
+            </p>
+            <p>
+               <hi>May the</hi> 3d. 1683.</p>
+            <p>By <hi>Hen. Hesketh</hi> Vicar of St. <hi>Hellens</hi> and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Hills</hi> Jun. for <hi>Henry Bonwicke</hi> at the <hi>Red-Lyon</hi> in St. <hi>Paul</hi>'s Church-Yard, 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96546:2"/>
+            <pb facs="tcp:96546:2"/>
+            <head>To the Honoured Sir <hi>John Law<g ref="char:EOLhyphen"/>rence,</hi> Knight and Alderman of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> here Preſent you with what you were plea<g ref="char:EOLhyphen"/>ſed to call for at my hands; a Copy of that Diſcourſe that was made at your Grand-Childs Funeral, which you were pleaſed ſo kindly to accept at the hearing, as to deſire a more leiſure<g ref="char:EOLhyphen"/>ly peruſal of it.</p>
+            <p>This is now the Third time, that I have been called to do you Service in theſe ſad occaſions, and Death hath made ſo many violent Inroads upon your Family in a ſhort ſpace.</p>
+            <p>I Pray God Almighty Sanctifie theſe ſad Occurences to you, and to all that relate to you, and teach you to improve them to thoſe purpo<g ref="char:EOLhyphen"/>ſes of Wiſdom that he intends them.</p>
+            <p>If this poor Diſcourſe may do you any Ser<g ref="char:EOLhyphen"/>vice to this purpoſe, I ſhall have good cauſe to rejoyce. What ever it is, I preſent it to you in
+<pb facs="tcp:96546:3"/> ſuch a hope; if you have a deſign to make it publick (as you ſeem to intimate) you muſt be pleaſed to ſtand accountable for the imper<g ref="char:EOLhyphen"/>fections of it, for I have no further concern for it, than to have it accepted as Teſtimony of thankfulneſs for thoſe great kindneſſes, you have been pleaſed upon all occaſions to expreſs towards.</p>
+            <closer>
+               <salute>Honoured Sir,</salute>
+               <signed>Your moſt obliged and moſt Humble Servant. <hi>Henry Hesketh.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>May the</hi> 8th. 1683.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96546:3"/>
+            <epigraph>
+               <q>
+                  <bibl>Eccleſiaſtes 11.10.</bibl>
+                  <p>Therefore remove Sorrow from thy Heart, and put away Evil from thy Fleſh, for Child-hood and Youth are Vanity.</p>
+               </q>
+            </epigraph>
+            <p>WE are come together Hono<g ref="char:EOLhyphen"/>rable and Beloved, at this time, to pay our laſt reſpects, to the Memory of a Young deceaſed Gentleman, in whom Parentage and Honour, Eſtate and Parts, Beauty and Comlineſs, Youth and Temper, combined to have rendred him a great Man, and (had God ſo pleaſed) one that might have done good ſervice in his Generation.</p>
+            <p>But it is otherwiſe determined above, and the Thread of his Life is cut off, his Relati<g ref="char:EOLhyphen"/>ons (you ſee) are willing to commit the Earthly remains of him to the Grave, with that reſpect, and thoſe Teſtimonies of Ho<g ref="char:EOLhyphen"/>nour
+<pb n="2" facs="tcp:96546:4"/> and Kindneſs, that the cuſtom of this City hath made becoming Perſons of his Rank and Quality.</p>
+            <p>And what is Incumbent now on me, is to ſtrive to Improve this ſad providence to your good, to render you more than for<g ref="char:EOLhyphen"/>mal Mourners, and cuſtomary Spectators of theſe Funeral Solemnities.</p>
+            <p>There can ſcarce be a time, in which we may promiſe our ſelves more ſucceſs in our Ghoſtly Counſels and Advice, than ſuch as this. For Death, and the apprehenſions of it uſually render Men ſerious, and make way for thoſe reflections and thoughts, which the Hurries of buſineſs, the entertainments of ſenſe, and the gayeties of the world in<g ref="char:EOLhyphen"/>diſpoſe them for, and lock up their minds againſt the entertainment of.</p>
+            <p>This is the great reaſon, why the Funerals of the Dead are uſually attended with ſome exhortations to the Living, (And I think) we may take good occaſion to magnifie the great care and wiſdom of the Church in it, in advantaging ſuch very neceſſary Coun<g ref="char:EOLhyphen"/>ſels, with ſuch very fair and promiſing op<g ref="char:EOLhyphen"/>portunities.</p>
+            <pb n="3" facs="tcp:96546:4"/>
+            <p>This is my preſent Province, and the Task impoſed on me at this time, which that I might diſcharge with ſome ſervice and ſuc<g ref="char:EOLhyphen"/>ceſs to you, I have been deſired to ſuit my diſcourſe to thoſe eſpecially that ſtand upon the ſame Level, and in the ſame great cir<g ref="char:EOLhyphen"/>cumſtances of Age with this Young de<g ref="char:EOLhyphen"/>parted Gentleman, and to addreſs to them in ſome ſuch way as might be moſt ſuitable to their needs, and this occaſion.</p>
+            <p>And I have not been able to find out a place of Scripture, that ſeems (to me) better to anſwer theſe purpoſes, than theſe words of <hi>Solomon</hi> now read to you, which are direct<g ref="char:EOLhyphen"/>ly addreſſed to Young Perſons, as is plain in themſelves, and from the Verſe which precedes, and that which follows the Text, <hi>Remove ſorrow from thy Heart, and put away evil from thy Fleſh, for Child-hood and Youth are Vanity.</hi>
+            </p>
+            <p>In which words (without ſpending time in any further recommending the Parentage, Honour, Eſtate, Parts, Beauty, or Comlineſs, of the Perſon Deceaſed) there are two things I ſhall obſerve to you.</p>
+            <p n="1">1. An Exhortation and advice, in theſe
+<pb n="4" facs="tcp:96546:5"/> words, <hi>Therefore remove ſorrow from thy heart, and put away evil from thy Fleſh.</hi>
+            </p>
+            <p n="2">2. An argument or reaſon to inforce the compliance with it, in theſe, <hi>for Child-hood and Youth are Vanity.</hi>
+            </p>
+            <p n="1">1. The firſt of theſe I intend no further to inſiſt upon, than only to give you the true ſenſe, and meaning of it, for the ſe<g ref="char:EOLhyphen"/>cond is that I chiefly purpoſe to make the Subject of the following diſcourſe.</p>
+            <p>The advice ſeems to conſiſt of three parts, <hi>remove Sorrow from thy heart, and put away E<g ref="char:EOLhyphen"/>vil from thy Fleſh,</hi> but they are either of the ſame Import, and only doubled (like <hi>Pharaohs</hi> Dream) to make the deeper Im<g ref="char:EOLhyphen"/>preſſion, or one is added as an <hi>Exegeſis</hi> and Explication of the other, or both are expreſ<g ref="char:EOLhyphen"/>ſed, to make the ſenſe of them fully com<g ref="char:EOLhyphen"/>prehenſive of what the Wiſe Man intended by them.</p>
+            <p>The thing plainly intended in them, is true Religion, and that practice, or great in<g ref="char:EOLhyphen"/>ſtance of it, which is moſt ſuitable and be<g ref="char:EOLhyphen"/>coming Youth, and the expreſſions are com<g ref="char:EOLhyphen"/>mon Periphraſes of both theſe in the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <pb n="5" facs="tcp:96546:5"/>
+            <p>For by ſorrow here is meant any manner of ſin, any inſtance of wickedneſs, by which Men bring evil and ſorrow upon themſelves, the Effect here being put for the Cauſe, as by a Metonymy very common in Scripture, it is in other places.</p>
+            <p>Moſt of the Tranſlations that I have ſeen, inſtead of ſorrow, read anger, Put away anger from thy heart, by which they either mean all thoſe irregular ſenſual Paſſions, to which Youth is ſo very ſubject, of which an<g ref="char:EOLhyphen"/>ger is the moſt raging and impetuous, and that which commonly betrays and hurries them (without great care) into many evils and Miſchiefs, or they mean indifferently any Sin or Vice, by which they anger and pro<g ref="char:EOLhyphen"/>voke God, and fall under his diſpleaſure, and the ſad Effects of it.</p>
+            <p>And putting away evil from the Fleſh, is a common expreſſion in Scripture, in which the Fleſh is almoſt always uſed in an ill ſenſe, for the depraved part in man, and for all thoſe ſenſual Luſts and Inclinations ſeated in it, that hurry and betray Inconſi<g ref="char:EOLhyphen"/>derate men into ſin, and in the irregular in<g ref="char:EOLhyphen"/>dulgence of which, moſt of the prohibited inſtances of vice conſiſt.</p>
+            <pb n="6" facs="tcp:96546:6"/>
+            <p>So that putting away evil from the fleſh, muſt ſignifie what the <hi>Apoſtle</hi> means by cleanſing our ſelves from all filthineſs of the fleſh, 2 <hi>Cor.</hi> 7.1. <hi>i. e.</hi> freeing our ſelves from the power of all fleſhly Luſts, and as our Church in her Catechiſm very well expreſſeth it, (and to the Capacity of thoſe that I am now ſpeaking chiefly unto) the keeping our Bodies in Temperance, Soberneſs and Chaſti<g ref="char:EOLhyphen"/>ty.</p>
+            <p>In ſhort, <hi>by ſorrow in the heart, and evil in the fleſh,</hi> are meant here the two Great Heads of the Animal, or Senſual Paſſions in Man, which Philoſophy call's the Iraſci<g ref="char:EOLhyphen"/>ble, and the Concupiſcible, together with all the particular ſubdiviſions of them, and by removing, and putting theſe away, is to be underſtood, the freeing ourſelves from the power and command of them, and all thoſe Vices which they ſtrongly propend, and incline men unto.</p>
+            <p>Now this is the great Effect, and end of Reli<g ref="char:EOLhyphen"/>gion, the Purifying and Refining the Nature of Man, the correcting all thoſe wild Exorbi<g ref="char:EOLhyphen"/>tances of Paſſion and Luſt, by which he is ſo
+<pb n="7" facs="tcp:96546:6"/> eſtranged from God, and diſabled from living that Life of Vertue and Goodneſs, which his Great Creator intended, and made him for.</p>
+            <p>And that this is the true meaning of this advice, doth appear plainly from Two con<g ref="char:EOLhyphen"/>ſiderations:</p>
+            <p n="1">1. By conſidering what the great purpoſe and deſign of <hi>Solomon</hi> is in this Book, and what he Fixeth upon now in the cloſe of it, as the only ſure Expedient, and Method to that deſign. Now that is to State and deter<g ref="char:EOLhyphen"/>mine that ſo much Agitated controverſie about Humane Felicity, to determine wherein it conſiſts, and what the only true and Proper means of attaining it are.</p>
+            <p>After a full and curious Canvaſſing of this matter, an exact Surveying of all thoſe par<g ref="char:EOLhyphen"/>ticulars, and Heads of Injoyments (which Vain Men are ſo apt to conceit Happineſs to Conſiſt in) diſcarding them all, and expo<g ref="char:EOLhyphen"/>ſing their pretences to true Happineſs, in the former part of this Book; he comes in the Cloſe of it, to Fix upon true Religion, as the greateſt Intereſt and concern of Man, and that by which alone his true Felicity was to be ſecured.</p>
+            <pb n="8" facs="tcp:96546:7"/>
+            <p>And becauſe Young Perſons were apt to take other Meaſures of things, and to look upon themſelves unconcerned in diſcourſes about Religion, which they counted pro<g ref="char:EOLhyphen"/>per only for the Aged and the Grave, there<g ref="char:EOLhyphen"/>fore in this Place he purpoſely anticipates this humor, and recommends Religion un<g ref="char:EOLhyphen"/>to them, letting them know, that however they might take liberty to Indulge them<g ref="char:EOLhyphen"/>ſelves in Senſualities and Vain Pleaſures, and think they had more Licence to do this than others, yet that God at the Laſt Day, would ſeverely Reckon and account with them for the ſame: And that therefore it greatly con<g ref="char:EOLhyphen"/>cerned them, to take mighty care to reſtrain and bridle thoſe Senſualities that they were ſo prone and incident unto, <hi>to remember their Creator,</hi> and take care to do that duty they owed to him, (now) <hi>in the days of their Youth, before the evil days come upon them.</hi>
+            </p>
+            <p>This is the true, though very ſhort ac<g ref="char:EOLhyphen"/>count of this Book, and the purpoſe of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> in it; it is to recommend Religion unto all Men (and in this part of it) to Young Men, as their greateſt intereſt and the only ſure expedient to render them happy: and
+<pb n="9" facs="tcp:96546:7"/> therefore we ought to underſtand, and in<g ref="char:EOLhyphen"/>terpret theſe words in analogy to this great purpoſe, <hi>i. e.</hi> to the ſenſe that is already given of them.</p>
+            <p n="2">2. And this will yet be more clear, by conſidering the Context to which they ſtand related, both that which precedes, and that which follows them; in the former he is lay<g ref="char:EOLhyphen"/>ing before them a ſenſe of the future Judg<g ref="char:EOLhyphen"/>ment to Reſtrain and Curb the Extrava<g ref="char:EOLhyphen"/>gant Sallies of their Youthful Inclinations: <hi>Rejoyce O Young Man, in thy Youth, and let thy Heart cheer thee in the days of thy Youth, and walk in the ways of thy Heart, and in the ſight of thine Eyes,</hi> (which is a plain Sar<g ref="char:EOLhyphen"/>caſm, and intends only to reſtrain theſe things by deriding of them, as the next words ſhew plainly, remarking the fearful and dangerous Iſſue of them at laſt) <hi>but re<g ref="char:EOLhyphen"/>member that for all theſe things, God will bring thee unto Judgment;</hi> unleſs therefore thou canſt outface the Apprehenſions and Terrors of the final Doom, thou oughteſt to take great care, to reſtrain theſe Senſuali<g ref="char:EOLhyphen"/>ties and Vicious Inclinations.</p>
+            <pb n="10" facs="tcp:96546:8"/>
+            <p>And in the following verſe, <hi>i. e.</hi> the firſt of <hi>Chap.</hi> 12. he plainly recommends the care of Religion to them, <hi>Remember now thy Creator in the days of thy Youth, &amp;c.</hi> Now this Text comes in between theſe two Ver<g ref="char:EOLhyphen"/>ſes, and therefore muſt needs be interpreted to a ſenſe that is conſonant to them, plainly recommending to them that, which (as I ſaid before) is the greateſt inſtance of their Religion, and ought to be ſo of their care too, to bridle all thoſe head-ſtrong Paſſions, and giddy Inclinations, that betray them into Vice, and a forgetfulneſs of their God, to which he annexeth a ſtrong motive and argument in the latter part of the verſe; <hi>For Childhood and Youth are Vanity.</hi>
+            </p>
+            <p n="2">2. Which is the Second General I obſer<g ref="char:EOLhyphen"/>ved in the Text, and propoſed as the chief thing to ſpeak to at this time, in which I ſhall endeavour to do theſe three things.</p>
+            <p n="1">1. Explain the words, and ſhew wherein the ſtrength of the Argument lies.</p>
+            <p n="2">2. Improve it to that purpoſe of Religion, to which <hi>Solomon</hi> here uſeth it.</p>
+            <p n="3">3. Make ſome Practical Deductions and Inferences by way of application.</p>
+            <p n="1">
+               <pb n="11" facs="tcp:96546:8"/>1. The ſtrength of the Argument lies in the word <hi>Vanity, Child-hood and Youth are Vanity, therefore remove Sorrow from thy heart, &amp;c.</hi> Now as of this word Vanity there are three (eſpecially) Significations in Scripture, ſo we ſhall find the argument of conſider<g ref="char:EOLhyphen"/>able ſtrength in them all, and by the com<g ref="char:EOLhyphen"/>plexion and combination of all together, of very great efficacy indeed.</p>
+            <p n="1">1. For <hi>1ſt.</hi> Vanity is taken for a thing of no reality or ſubſtance, for any thing of Fair and Specious appearance, when yet there is nothing in Truth, to anſwer what was promiſed and expected.</p>
+            <p>In this ſenſe Idols are called Vanity, and Worldly Enjoyments are called Vanity, and relyance upon Men is called Vanity, becauſe none of theſe things anſwer their appearan<g ref="char:EOLhyphen"/>ces, or thoſe expectations or relyances that are placed upon them: for an Idol is no<g ref="char:EOLhyphen"/>thing (ſaith <hi>St. Paul</hi>) either in its being, or power, anſwerable to what it appears, and is by miſtaken Men fancied to be. And World<g ref="char:EOLhyphen"/>ly Enjoyments appear great at a diſtance in<g ref="char:EOLhyphen"/>deed, but are found to be really but little, and nothing in compariſon of what they ſeemed,
+<pb n="12" facs="tcp:96546:9"/> while the Man was in the purſuit of them. And great Men whatever they may promiſe, or we may promiſe our ſelves from them; yet either their Faithfulneſs, or their Power to help us, is little, and in ſome caſes nothing at all, in one Senſe they are called by the Pſalmiſt Vanity, and in the other a Lye.</p>
+            <p n="2">2. Vanity is often uſed to expreſs wicked<g ref="char:EOLhyphen"/>neſs and ſin, eſpecially for the Extravagant Affectation and Proſecution of Senſual Pleaſures and Delights, in which (as I ſaid before) the chiefeſt inſtances of Vice conſiſt.</p>
+            <p>Upon this account wicked Men in Scrip<g ref="char:EOLhyphen"/>ture are commonly called Vain Perſons, Silly and plain Fools. And Sin is called Vani<g ref="char:EOLhyphen"/>ty and a Lye, becauſe it no way anſwers its promiſing appearance; it Courts Men un<g ref="char:EOLhyphen"/>der the Shape of Pleaſure and Profit, Inte<g ref="char:EOLhyphen"/>reſt and Delight, but is in experience quite contrary, it is ſweet in the Mouth, but in the Stomack is bitter as the Gall of <hi>Aſps;</hi> by all which Metaphors is plainly meant, that Sin however pleaſant it ſeems in it's pre<g ref="char:EOLhyphen"/>ſent appearance, yet is really afflictive and ſad in the Tryal and Iſſue, juſt as the Careſ<g ref="char:EOLhyphen"/>ſes of an Harlot are Inviting and Charming
+<pb n="13" facs="tcp:96546:9"/> at firſt, but deadly as the Sting of a <hi>Serpent,</hi> and deſtructive as the Embraces of Death, at the latter end.</p>
+            <p>And Wicked Men are therefore called Vain and Fooliſh, becauſe they are cheated by the Appearance, and Deceitfulneſs of Sin (as the <hi>Apoſtle</hi> ſpeaks) and made to expect a great deal of Happineſs and Delight, when alas the Dead are there, and its Paths lead down unto Hell.</p>
+            <p n="3">3. Vanity is often uſed to expreſs that which is fleeting and uncertain, and ſoon fadeth or paſſeth away; thus all Fleſh is called Vanity, and compared to the Flower of the Field, Man is called Vanity, becauſe ſubject ſtill to the Stroak of Death, and of no fixed continuance: The Glory of the World, and the Poſſeſſions of it are called Vanity, and often ſaid to be Vain, becauſe ſo ſub<g ref="char:EOLhyphen"/>ject to decay: The Happineſs and Proſperity of wicked Men is called Vanity, becauſe they ſtand in ſlippery places, and Riches are called Vain, becauſe ſo Volatile and Uncertain, and becauſe they make them<g ref="char:EOLhyphen"/>ſelves Wings and Flye away.</p>
+            <pb n="14" facs="tcp:96546:10"/>
+            <p>Now Youth is called Vanity in all theſe reſpects.</p>
+            <p n="1">1. For its proſecution of Vain and de<g ref="char:EOLhyphen"/>ceitful things; its judgment is not Ripe, nor hath its reaſon attained to any conſiſten<g ref="char:EOLhyphen"/>cy, it is eaſily impoſed upon by ſhews and appearances, it ſees but the outſide of things, is eaſily captivated and charmed with flat<g ref="char:EOLhyphen"/>tering and guilded Pretences, and Frauds and Cheats are eaſily put upon them.</p>
+            <p>This is one great reaſon why its Tem<g ref="char:EOLhyphen"/>per and Inclinations are ſo deſultory and uncertain, now hot in the purſuit of one Vanity, and preſently another, now its Hawk, and then its Hound, and after theſe its Horſe, or its Miſtreſs Ingroſs its re<g ref="char:EOLhyphen"/>ſpects, becauſe it fixeth only by chance, and uncertain contingences, and as theſe wild reaſons alter, its Choice and Affecti<g ref="char:EOLhyphen"/>on varies too: Or becauſe it is ſoon cloyed with any one of theſe, and finds not that ſatisfaction that it expected, it therefore beats for new, and rangeth over the whole Periphery, becauſe none ſatisfieth its ex<g ref="char:EOLhyphen"/>pectations.</p>
+            <p n="2">2. It is called Vanity upon a Second and
+<pb n="15" facs="tcp:96546:10"/> worſe account of Vanity, becauſe it is ſub<g ref="char:EOLhyphen"/>ject to many Senſual Luſts, that hurry and betray it into Sin and Wickedneſs, and drown Men in Perdition, as the <hi>Apoſtle</hi> Speaks.</p>
+            <p>The inclinations of Senſe are Strong and Rampant, the Powers of Reaſon and Un<g ref="char:EOLhyphen"/>derſtanding weak and ſmall, not able to ſee into the Truth of things, nor to bridle thoſe impetuous Luſts that are ſo eaſily Fired, and Captivated by any thing, that promi<g ref="char:EOLhyphen"/>ſeth preſent gratification; for this cauſe you have mention of Youthful Luſts, 2 <hi>Tim.</hi> 2.22. <hi>i, e.</hi> ſuch as that Age is eſpecially inci<g ref="char:EOLhyphen"/>dent unto.</p>
+            <p n="3">3. Youth is called Vanity upon the laſt reaſon alſo, <hi>i. e.</hi> becauſe it is frail, and of uncertain continuance, and Young Men as ſubject to the Stroak and Seizures of Death, as any others, nay indeed a great deal more, and had we not reaſon for the Truth of this aſſertion, yet we might eaſily vouch certain and dayly experience for it.</p>
+            <p>I am too Senſible how apt Young Perſons are to think otherwiſe, and venture to act upon ſuch Wild Conceits; they Imagine
+<pb n="16" facs="tcp:96546:11"/> they have the World before them, and a great deal of Time that they may preſume upon, but had they either reaſon to judge of things, or would give themſelves leiſure to make any due obſervations, they would ſoon ſee the Vanity and Hazard of this Fan<g ref="char:EOLhyphen"/>cy.</p>
+            <p>Alas their Tempers and Conſtitutions are tender, and not yet come to any firm con<g ref="char:EOLhyphen"/>ſiſtency, frail and ſoon broken as the Fine Glaſs, and a thouſand times more ſubject to any External Impreſſions, then when their Tempers are Hardened, and their Bodies Set<g ref="char:EOLhyphen"/>led; the Early Bud, and the new Blown Flower is Ten times more Incident to every Blaſt and Storm, than the well Grown Branch, every little Froſt Nips, and Spoils the Beauty of the one, while the other can ſtand the ſhock of Winter, and defie the rude and Cold ſalutes of the Northern Snows.</p>
+            <p>And would Young Perſons but look a<g ref="char:EOLhyphen"/>broad, and take account of thoſe that Paſs to the Regions of the Dead, they would find there were as much difference in the Numbers of the Young and old, as they ſee there is between the Bloſſoms and the Ripe
+<pb n="17" facs="tcp:96546:11"/> Fruit, there being Thouſands of the one that fall to the Ground, for one of the other that is gathered into the Basket. We ſee but a very few Hoary Heads (and in this Age of Luxury and Intemperance are like every day to ſee fewer) and therefore may without any great help of Logick, infer, that multitudes of Perſons die young.</p>
+            <p>Theſe are the reaſons now upon which Youth is eſpecially called Vanity, and what ſtrength there is in theſe to engage young Perſons to Religion, and a great regard to it.</p>
+            <p n="2">2. Is the ſecond thing propoſed; in which I ſhall endeavour (with all poſſible plainneſs, and convenient brevity) to Im<g ref="char:EOLhyphen"/>prove this Argument, and perſwade Youth to a great ſenſe, and due care of Religion, which is the deſign to which the Wiſeman uſeth it in this place.</p>
+            <p n="1">1. And firſt it is one good Argument to engage ſuch to Religion, to conſider what Idle, Vain, Impertinent things, they will elſe be ſtill in the purſuit of.</p>
+            <p>Their buſie Heads, and active Thoughts will ſtill be ſet upon ſomething, their Spi<g ref="char:EOLhyphen"/>rits
+<pb n="18" facs="tcp:96546:12"/> are volatile and ſtill upon the wing, and ſome project or other they will always be upon, and if Religion do not in ſome good degree ſeaſon their minds, and give meaſures to their regards and care, Lord! how ſilly, how reſtleſs, and diſtracted will their purſuits ſtill be.</p>
+            <p>What Trifles and Vanities will their care be expended upon? And what a nothing will be the purchaſe of all their Labour? We pitty the Innocence of a poor Child, that takes ſuch Pains to gather a Ruſh, and Sweats in the purſuit of a ſilly Butter-Flie, and is it not much greater pitty to ſee a comely Youth, of hopeful parts, and very promiſing capacities, waſte his time and ſtrength in the purſuit of things, that are every whit as Vain; only not half ſo Inno<g ref="char:EOLhyphen"/>cent? Things that not only Anſwer not his Pains, but ſadly illude them, put him only upon the Rack of new acquiſts and purſuits inſtead of compenſating his paſt Labours.</p>
+            <p>Is it not a Melancholy ſight; to behold Beauty and Parts, a blooming Vigour and Strength, and a Perſon worthy of the care of Angels, to proſecute with ſo much ear<g ref="char:EOLhyphen"/>neſtneſs,
+<pb n="19" facs="tcp:96546:12"/> that which ſatisfieth not, to court Vanities which ſtill flie from him, and turn Idolater to an empty Cloud, wearying himſelf in hunting for ſatisfaction in the wrong place, and purſuing that which re<g ref="char:EOLhyphen"/>pay's him with continual diſappointment? Oh! what great pitty is it, that ſuch In<g ref="char:EOLhyphen"/>duſtry ſhould not be better directed, and better rewarded.</p>
+            <p>Will you think how lamentably hazardous the condition of that Youth is, that is ſetting out into a wide, and hazardous World, with<g ref="char:EOLhyphen"/>out the conduct of Religion, What truer and apter Emblem can you give of him, than of a new Ship Lanching out into the Main Ocean, without Helm, and Ballaſt, or Pilot to Steer her? which muſt needs move uncertainly and at random, become the ſport of every Wave, and be toſſed by every Wind, till at laſt it either overſet by its own vanity, or ſtrike upon ſome leſs-heeded Rock, and be finally loſt, beyond all hope of recovery.</p>
+            <p>Now Religion would be remedy againſt all theſe misfortunes, it would cauſe him to act ſteddily, and enable him to chooſe
+<pb n="20" facs="tcp:96546:13"/> wiſely, and repay him with that Satisfacti<g ref="char:EOLhyphen"/>on, to which all the entertainments of ſenſe are a trifle and a dream, it would fix him upon things worthy of his care, and able to compenſate his Labour; things becom<g ref="char:EOLhyphen"/>ing his Nature, and ſutable to ſo noble a Being, and things that inſtead of wearying him in vain and empty purſuits, would re<g ref="char:EOLhyphen"/>pay his Labour with that, beyond which nothing of ſatisfaction can be deſired.</p>
+            <p n="2">2. But then it is a ſtronger Argument to Religion, to conſider what hurtful, miſ<g ref="char:EOLhyphen"/>chievous, and deadly things, Youth is ſo very apt to purſue, if Religion direct it not better.</p>
+            <p>It is a ſight pittiful enough, to behold a poor Child run eagerly over Stocks and ſharp Stones, and a dangerous Quagmire in the purſuit of a painted Butter-Fly (as I in<g ref="char:EOLhyphen"/>timated before) but to ſee this Child fol<g ref="char:EOLhyphen"/>lowing a ſpeckled Viper, and ſtriving to graſpe a ſhining Scorpion, that will re<g ref="char:EOLhyphen"/>pay his firſt touch with a deadly Sting, and dart a Poiſon into his Blood which is infallibly mortal; this is a ſight at which our hearts would tremble, and our Blood
+<pb n="21" facs="tcp:96546:13"/> preſently chill, it almoſt exceeds compaſ<g ref="char:EOLhyphen"/>ſion, and no pitty is big enough for it.</p>
+            <p>Alas this is but a faint Emblem of Youth purſuing Senſuality and Luſt, running upon the points of Swords and Daggers, wound<g ref="char:EOLhyphen"/>ing it ſelf with ſuch deep and deadly Stabs, as nothing but the Balmy Blood of the bleſſed Jeſus can heal, and plunging it ſelf into ſuch an abyſs of guilt, as nothing but the extraordinary (yea miraculous) love of God can ſave him out of.</p>
+            <p>It is a reflection afflictive enough, to conſider that ſenſuality, and intemperance, and youthful Luſts, lay up matter for fu<g ref="char:EOLhyphen"/>ture diſeaſes, and pains of the Body; that they poiſon the Blood, ſtain the Beauty and Complexion, weaken the Temper and Conſtitution, antedate Old Age, and the infirmities of it, and that a vicious Youth is digging his own Grave, as faſt as he can.</p>
+            <p>But Oh! what affliction and ſorrow muſt it needs cauſe, to conſider that theſe provide matter for eternal Torments; that they Stab the Soul with Incurable hor<g ref="char:EOLhyphen"/>rour and pain, incenſe the Wrath and Ven<g ref="char:EOLhyphen"/>geance of an Almighty God, and conſign
+<pb n="22" facs="tcp:96546:14"/> both Body and Soul to Hell for Ever.</p>
+            <p>What a wounding ſpectacle is it to ſee, that fair and beautiful creature, with which a Cherubin might fall in Love; that is the Image and Breath of the great God, and ſo nearly allyed to the bleſſed Jeſus, whom Angels guard with joy, and the provi<g ref="char:EOLhyphen"/>dences of Heaven wait upon, which the bleſſed Spirit of God inſpires, and for whom all the Glories of Heaven are pre<g ref="char:EOLhyphen"/>pared.</p>
+            <p>I ſay, to ſee this fair Creature transform it ſelf into a Serpent, and fall in Love with a foul Toad, contract Friendſhip with Fiends and Devils, and yield up it ſelf to the helliſh conduct of them; take up with the foul and muddy pleaſures and enter<g ref="char:EOLhyphen"/>tainments of Beaſts, and to paſs from hence into everlaſting burnings.</p>
+            <p>Who can think of this without tranſ<g ref="char:EOLhyphen"/>ports of ſorrow and grief? Or what Eyes can chooſe but burſt out into Tears even of Blood at ſo ſad a proſpect? Yet this is really the caſe of that Youth, which Religion doth not ſeaſon and govern; it runs headlong upon its own deſtruction, it is a cheap Prey
+<pb n="23" facs="tcp:96546:14"/> to every ſilly Temptation, betrayed eaſily into every pittiful Sin and Vice, whoſe ap<g ref="char:EOLhyphen"/>pearance though it ſeem fair, yet its latter end is bitterneſs, and its paths inevitably lead down to Hell; ſuch a poor creature is contriving his own Damnation, making court to Hell, and inconſiderately ruſhing upon thoſe courſes, which will certainly period in Eternal Flames.</p>
+            <p n="3">3. And yet we have another Argument beyond theſe, and ſuch a one, as we may well hope will be the more effectual, in that it meets with the common Plea, and Objection that is uſually made by Young perſons againſt ſuch diſcourſes, and that (I have hinted before) is a preſuming upon a great deal of time, and putting death far from them, imagining that they may have time enough hereafter to regard Re<g ref="char:EOLhyphen"/>ligion in, and bethink themſelves of at<g ref="char:EOLhyphen"/>tending to the precepts of it.</p>
+            <p>Againſt this fancy the <hi>3d.</hi> ſenſe in which Youth is ſaid to be vanity, will be a good remedy which lets them know that their time of life is no ſurer than others, and that their preſuming upon the future is
+<pb n="24" facs="tcp:96546:15"/> equally groundleſs. They are as ſubject to the ſtroak of Death, and to the im<g ref="char:EOLhyphen"/>preſſions of Diſeaſes to haſten it, as any others, yea a great deal more, eſpecially if they be irreligious and vicious; and for this, daily obſervation (as I ſaid before) is as convictive as demonſtration.</p>
+            <p>Give me the ſtrongeſt Conſtitution a<g ref="char:EOLhyphen"/>mong you all, or that Youth that thinks himſelf ſecureſt of long life, let me but have leave to lead him to the paths of the Dead, and beg him to obſerve what foot<g ref="char:EOLhyphen"/>ſteps he ſees in the ways that lead to the Chambers of the Grave, and then let him tell me, if he ſee not thoſe of his own Complexion and Age, and ſuch as might have preſumed upon a longer life, as well as himſelf, and that upon the ſame reaſons too.</p>
+            <p>Or let me beg ſuch an one to look up<g ref="char:EOLhyphen"/>on this Herſe, and conſider whoſe Corps we are going to Intomb, and then let me deſire him to ſay, what he hath to alledg againſt Death and the poſſibility of it, which this young Gentleman might not have done with as much ſhew of reaſon.
+<pb n="25" facs="tcp:96546:15"/> And yet you ſee all his Pleas have fail'd him: Let me therefore beg you to im<g ref="char:EOLhyphen"/>prove this to that purpoſe of Wiſdom that providence intends it, learn every one of you to number ſo his days, as now to ap<g ref="char:EOLhyphen"/>ply their hearts to Wiſdom, and every one to entertain himſelf with this ſerious me<g ref="char:EOLhyphen"/>ditation, that ere long the ſame caſe may be my own; my turn (for any thing I know) may be the next, and thoſe that now carry out the remains of my Friend to the Grave, may preſently be called upon, to do the ſame office for mine.</p>
+            <p>Theſe thoughts (by the help of Gods grace) would correct the gayety of your Spirit, pull down your vain creſts, render you ſerious and thoughtful, and convince you that Religion is as abſolutely needful for you, as it either is, or can be for others.</p>
+            <p>In theſe three conſiderations doth the ſtrength of this Argument conſiſt, and were they but duly entertained by young Perſons, they could ſcarce fail of having
+<pb n="26" facs="tcp:96546:16"/> effect upon them, in engaging them to a preſent care after Religion and Holineſs, which is the end that I have been purſu<g ref="char:EOLhyphen"/>ing in repreſenting of them.</p>
+            <p n="3">3. And now I proceed to put a Period to this diſcourſe in ſome practical de<g ref="char:EOLhyphen"/>ductions, and inferences from it, which is the third and laſt thing I propoſed to per<g ref="char:EOLhyphen"/>form, and three I ſhall only mention at preſent.</p>
+            <p n="1">1. Firſt it may let us ſee how extream<g ref="char:EOLhyphen"/>ly imprudent thoſe young Perſons are, that think diſcourſes of this Nature no way proper or needful for them; and at what mighty and dangerous rates, all ſuch Per<g ref="char:EOLhyphen"/>ſons do Act, that regard not Religion in their Youth, nor take care to govern their lives by the rules and meaſures of it.</p>
+            <p>It is to you that I have been ſpeaking all this while, and it is you that this oc<g ref="char:EOLhyphen"/>caſion chiefly concerns; for Gods ſake con<g ref="char:EOLhyphen"/>ſider well with your ſelves whether Reli<g ref="char:EOLhyphen"/>gion be not as needful for you as others,
+<pb n="27" facs="tcp:96546:16"/> and whether, if God ſhould call for you out of this World, (as it is more than poſſible that he may) you can hope to be ſaved without the aids of it. Be perſwa<g ref="char:EOLhyphen"/>ded therefore (I beſeech you) to take it a<g ref="char:EOLhyphen"/>long with you, and to hallow your Youth with a ſenſe and care of it.</p>
+            <p>Do not think Religion an Enemy to your mirth and pleaſure, and delight in this World; it is the beſt expedient to theſe, and the only way to render them pure and real: It is no Sad or Melancholy thing, nor abridgeth you of any thing that is for your true happineſs: You may ſing, rejoyce and be merry, God envies you nothing but ſin, which ſpoils your joys, daſheth your mirth, and muſt ſooner or later be ſadly accounted for.</p>
+            <p>Religion will make you truly cheerful, preſerve the comfort and delight of your own minds, entitle you to Gods good care and bleſſing, in the following courſe of your Lives; it will fit you to live happily, and to die comfortably, and render you both in life and death certainly bleſſed.</p>
+            <p n="2">
+               <pb n="28" facs="tcp:96546:17"/>2. This will ſhew us how mighty careful all Parents and Guardians of Youth ought to be, to ſeaſon them with Religion, inſtil a ſenſe, and knowledg of the Principles of it into them betimes, and train them up in the ways of it.</p>
+            <p>This will be a double bleſſing to them, and the higheſt inſtance of love and kind<g ref="char:EOLhyphen"/>neſs, and a care of them that we can give: Nature obligeth us to take care of their outward wellfare and both Nature and Re<g ref="char:EOLhyphen"/>ligion require us to take care of their Spiritual; and it will be a ſad account we ſhall make at the laſt Day of our failure herein, when their miſcarriages ſhall be charged upon us, and their Blood be re<g ref="char:EOLhyphen"/>quired at our hands.</p>
+            <p>It is our own comfort and gain that calls upon us in this, as well as theirs, and if we expect to have them comforts, and bleſſings to us while they live, or to part with them with any comfort, when they are taken from us, we ſhould be ſure to do all we can for them in this great inſtance.</p>
+            <p n="3">
+               <pb n="29" facs="tcp:96546:17"/>3. And laſtly, (that all may have ſome gain by this diſcourſe) it may ſhew us of what mighty concern Religion is to us all, and upon what great reaſons all of us are obliged to have a due regard and care of it.</p>
+            <p>The ſame reaſons of this Text that hold with reſpect to young Men, hold equally with reſpect to all Men; for both Middle-Age, and Old Age (without Religion) are vanity, as well as Child-hood and Youth are, and as much ſo too; ſubject to errors, and eaſily impoſed upon, apt to Idolize the flattering vanities of this World; prone to ſin, and all manner of wickedneſs, and daily under the dominion of Death, and incident to the ſtroak and ſeizures of it.</p>
+            <p>And therefore the ſame reaſons ought to prevail with us, that we have thought ſo very proper for them, and it will be a grand ſhame, and mighty guilt, and a mi<g ref="char:EOLhyphen"/>ſery at laſt equal to both, if while we Preach Religion to them, we our ſelves be found regardleſs of it.</p>
+            <pb n="30" facs="tcp:96546:18"/>
+            <p>Then only can we hope with ſucceſs, to recommend Religion unto them, when we our ſelves lead them, and go before them in it, and then may we hope for Gods bleſſing upon both here, and by his grace, and through the merits of our dear Lord to be both finally ſaved, and happy hereafter; which God of his Infinite Mercy grant us all to be, for Chriſt Jeſus ſake, to whom, with the Father, and the Holy Ghoſt, be all Honour, and Glory, and Praiſe now, and for Evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96546:18"/>
+            <head>Books Sold by <hi>Henry Bonwick</hi> at the <hi>Red-Lyon</hi> in St. <hi>Paul</hi>'s Church-Yard.</head>
+            <list>
+               <item>THE Righteous Mans Portion, a Ser<g ref="char:EOLhyphen"/>mon at the Funeral of the Noble and Renowned Gentleman, <hi>Henry St. John</hi> Eſq; who was unfortunately killed by the Tories on the <hi>9th.</hi> of <hi>September</hi> 1679, together with a ſhort Character of his Life, and way, and manner of his Death. By <hi>Laur. Power</hi> M. A. ſometimes Student in <hi>Trinity</hi> Colledg, &amp; now Prebend and Rector of <hi>Tandrogee,</hi> &amp;c.</item>
+               <item>The Conſtant Communicant, a Diatribe, proving that conſtancy in receiving the Lords Supper, is the indiſpenſable Duty of every Chriſtian. The Second Edition, to which is added a Sermon Preached at the Anniverſary meeting of the Sons of Clergy-Men, at St. <hi>Mary Le Bow,</hi> on the <hi>7th.</hi> of <hi>December</hi> 1682. By <hi>Ar. Bury</hi> D. D. Rector of <hi>Exon. Coll. Oxon.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
